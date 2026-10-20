@@ -4,10 +4,10 @@
 
 | 平台 | 文件 | 体积 | 说明 |
 |---|---|---|---|
-| Android | `android/tslclock_1.1.0_32.apk` | 28.30 MB | armeabi-v7a（32 位），适用于老旧设备 |
-| Android | `android/tslclock_1.1.0_64.apk` | 31.94 MB | arm64-v8a（64 位），适用于绝大多数机型 |
-| Windows | `windows/tslclock_0.1.0_windows_x64_setup.exe` | 2.63 MB | 64 位安装包（NSIS），双击安装 |
-| macOS | `macos/tslclock_0.1.0_macos_arm64.dmg` | 3.97 MB | Apple Silicon（M 系列）安装包 |
+| Android | `android/tslclock_1.1.0_32.apk` | 28.35 MB | armeabi-v7a（32 位），适用于老旧设备 |
+| Android | `android/tslclock_1.1.0_64.apk` | 32.01 MB | arm64-v8a（64 位），适用于绝大多数机型 |
+| Windows | `windows/tslclock_0.1.0_windows_x64_setup.exe` | 2.64 MB | 64 位安装包（NSIS），双击安装 |
+| macOS | `macos/tslclock_0.1.0_macos_arm64.dmg` | 3.98 MB | Apple Silicon（M 系列）安装包 |
 
 ## 安装提示
 
